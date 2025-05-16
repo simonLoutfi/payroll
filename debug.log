@@ -1,0 +1,31 @@
+Array
+(
+    [code] => 144
+    [members] => Array
+        (
+            [0] => Array
+                (
+                    [secured] => 0
+                )
+
+            [1] => Array
+                (
+                    [memberName] => simon
+                    [age] => 67
+                    [secured] => 1
+                    [memberType] => 1
+                    [gender] => 1
+                )
+
+            [2] => Array
+                (
+                    [memberName] => simon
+                    [age] => 43
+                    [secured] => 0
+                    [memberType] => 1
+                    [gender] => 1
+                )
+
+        )
+
+)
