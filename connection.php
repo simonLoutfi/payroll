@@ -1,8 +1,8 @@
 <?php
-$HOSTNAME = 'sql105.infinityfree.com';
-$USERNAME = 'if0_38999241';
-$PASSWORD = 'P4yr0II4408';
-$DATABASE = 'if0_38999241_payroll';
+$HOSTNAME = '';
+$USERNAME = '';
+$PASSWORD = '';
+$DATABASE = '';
 
 try {
     // PDO connection
